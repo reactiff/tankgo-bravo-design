@@ -1,5 +1,3 @@
-# tankgo-bravo-design
-
 ![Image 1](https://github.com/reactiff/tankgo-bravo-design/raw/main/chassis/renderings/1.png)
 ![Image 2](https://github.com/reactiff/tankgo-bravo-design/raw/main/chassis/renderings/2.png)
 ![Image 3](https://github.com/reactiff/tankgo-bravo-design/raw/main/chassis/renderings/3.png)
